@@ -2,12 +2,12 @@
 title: ZY Blog
 SEOTitle: 中元的博客 | ZY Blog
 header-img: img/post-bg-desk.jpg
-email: zhouzhongyuan666@gmail.com
+email: zhouzhongyuan96@gmail.com
 #description: "Every failure is leading towards success."
 #keyword: "ZY, ZY Blog, 中元的博客, zhouzhongyuan,周中元, Android, Huawei, mate"
-url: "http://bettermanzzy.github.io"          # your host, for absolute URL
+url: "http://zaneChou.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/bettermanzzy/bettermanzzy.github.io.git" # you code repository
+github_repo: "https://github.com/zaneChou1/zaneChou.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -20,7 +20,7 @@ sidebar-avatar: /img/author_pic.jpg      # use absolute URL, seeing it's used in
 RSS: false
 # weibo_username:     qiubaiying
 #zhihu_username:     qiubaiying
-github_username:    bettermanzzy
+github_username:    zaneChou1
 #facebook_username:  baiying.qiu.7
 #jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
